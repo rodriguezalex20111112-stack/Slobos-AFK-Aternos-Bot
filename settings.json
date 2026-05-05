@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BlissSMP-17.aternos.me",
+    "port": 45840,
     "version": "",
     "try-creative": false
   },
